@@ -28,8 +28,9 @@ public class BaseTest {
         driver.findElement(By.cssSelector("#L2AGLb")).click();
     }
 
-    @AfterEach
-    public void tearDown() {
-        driver.quit();
-    }
+//    @AfterEach
+//
+//     public void tearDown() {
+//        driver.quit();
+//    }
 }
