@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1821e582-6190-413a-943b-10737b7defde" name="Changes" comment="na szkoleniuz repozytorium">
+    <list default="true" id="1821e582-6190-413a-943b-10737b7defde" name="Changes" comment="na szkoleniu wszystko">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/ResultsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/ResultsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/FirstTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681235814461</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="na szkoleniu wszystko">
+      <created>1681282317171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681282317171</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="na szkoleniu i z repozytorium" />
     <MESSAGE value="na szkoleniuz repozytorium" />
-    <option name="LAST_COMMIT_MESSAGE" value="na szkoleniuz repozytorium" />
+    <MESSAGE value="na szkoleniu wszystko" />
+    <option name="LAST_COMMIT_MESSAGE" value="na szkoleniu wszystko" />
   </component>
 </project>
